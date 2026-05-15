@@ -44,9 +44,9 @@ Links e Entrega
 
 Abaixo estão os links para a conferência de todos os requisitos do desafio:
 
-* Página Oficial (GitHub Pages): [COLE O LINK DO SEU GITHUB PAGES AQUI]
+* Página Oficial (GitHub Pages): https://johnrvaz.github.io
 * Apresentação em Vídeo (YouTube): [COLE O LINK DO SEU VÍDEO AQUI]
-* Perfil Profissional (LinkedIn): [COLE O LINK DO SEU PERFIL DO LINKEDIN AQUI]
+* Perfil Profissional (LinkedIn): https://www.linkedin.com/in/joao-pedro-vaz-52428b40a/
 * Site de Referência (Google Sites): https://sites.google.com/view/portifoliojohnvaz/in%C3%ADcio
 
 ---
